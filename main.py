@@ -37,11 +37,11 @@ from fastapi.middleware.cors import CORSMiddleware
 # APP
 # ============================================================
 
-APP_NAME = "PXPanel"
-APP_VERSION = "13.10.0"
+APP_NAME = "DeBuG-Panel"
+APP_VERSION = "1.0.0"
 
-SUPPORT_USERNAME = "@logic_sec"
-SUPPORT_URL = "https://t.me/logic_sec"
+SUPPORT_USERNAME = "@MeDeBuG"
+SUPPORT_URL = "https://t.me/MeDeBuG"
 
 logging.basicConfig(
     level=logging.INFO,
